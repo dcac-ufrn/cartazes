@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="2019-09-18 [PPGCC] poster defesas - a4 greyscale - M - Josielli.svg"
+   sodipodi:docname="2019-09-18 [PPGCC] poster defesa a4 greyscale - M - Josielli.svg"
    inkscape:export-filename="/home/bolsista/Downloads/cartaz/2019-08-29 ppgcc poster_1.png"
    inkscape:export-xdpi="60.476192"
    inkscape:export-ydpi="60.476192">
@@ -1980,11 +1980,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90509672"
-     inkscape:cx="329.88706"
-     inkscape:cy="707.05668"
+     inkscape:zoom="0.45254836"
+     inkscape:cx="320.21357"
+     inkscape:cy="557.4633"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="mm"
      inkscape:window-width="1543"
@@ -1992,7 +1992,7 @@
      inkscape:window-x="57"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-bbox="true"
@@ -2016,39 +2016,19 @@
     <sodipodi:guide
        position="0,0"
        orientation="0,744.09449"
-       id="guide7852" />
+       id="guide6968" />
     <sodipodi:guide
        position="209.99999,0"
        orientation="-1052.3622,0"
-       id="guide7854" />
+       id="guide6970" />
     <sodipodi:guide
        position="209.99999,297.00001"
        orientation="0,-744.09449"
-       id="guide7856" />
+       id="guide6972" />
     <sodipodi:guide
        position="0,297.00001"
        orientation="1052.3622,0"
-       id="guide7858" />
-    <sodipodi:guide
-       position="-3.8623259,3.5964006"
-       orientation="0,1"
-       id="guide8019" />
-    <sodipodi:guide
-       position="155.81637,59.969211"
-       orientation="1,0"
-       id="guide8055" />
-    <sodipodi:guide
-       position="25.294766,59.969199"
-       orientation="1,0"
-       id="guide8063" />
-    <sodipodi:guide
-       position="21.781551,183.46962"
-       orientation="1,0"
-       id="guide7880" />
-    <sodipodi:guide
-       position="188.2184,309.20303"
-       orientation="1,0"
-       id="guide7884" />
+       id="guide6974" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -19342,10 +19322,4 @@
       </g>
     </g>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer11"
-     inkscape:label="aux"
-     style="display:inline"
-     sodipodi:insensitive="true" />
 </svg>
